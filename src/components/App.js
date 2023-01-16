@@ -12,7 +12,7 @@ function App() {
     <>
       <div id="main">
       </div>
-      {ele}
+      {element}
       <button id="click" onClick={para}>show</button>
     </>
   );
